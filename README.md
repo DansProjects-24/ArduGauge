@@ -1,2 +1,2 @@
 # ArduGauge
-Arduino Based Automotive Gauge
+Arduino Based Automotive Gauge.
