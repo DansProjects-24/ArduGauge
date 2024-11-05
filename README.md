@@ -1,2 +1,3 @@
 # ArduGauge
-Arduino Based Automotive Gauge.
+This is my Arduino Based Automotive Gauge project, Ardugauge.
+Here you'll find any CAD, code, and documentation for the project.
